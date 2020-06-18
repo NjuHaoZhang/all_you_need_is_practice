@@ -5,7 +5,7 @@ engineering development skills for computer vision and deep learning (readme是�
 面向2021年大厂cv岗位的工程实践-作为面试的一部分，目前想到的准备如下：
 
 ### 2. 准备大纲
-1. 计算机基础
+#### 2.1 计算机基础
   - 数据结构与算法
   - 算法分析与设计
   - 操作系统原理与实践
@@ -15,19 +15,19 @@ engineering development skills for computer vision and deep learning (readme是�
   - 编译原理原理与实践
   - 静态软件分析原理与实践
   - web & android app 开发原理与实践
-2. 统计机器学习与深度学习基础
+#### 2.2 统计机器学习与深度学习基础
   - 机器学习基础-西瓜书
   - 统计学习基础-李航
   - 贝叶斯统计机器学习-PRML & MLAPP (结合白板视频)
   - 快速回顾林轩田的机器学习基础与技法
   - 深度学习几要素，快速回顾 (CNN, RNN, ReLU及后来者, BP手推公式，SGD及其后来者，Dropout及后来者, cv四大任务的Loss, 调参训练trick)
-3. 计算机视觉基础
+#### 2.3 计算机视觉基础
   - 数字图像处理原理与实践
   - cs131n-stanford
   - 多视角几何原理与实践 (学术上，cvpr2020后该捡起来了)
   - 计算摄影学原理与实践
   - 图形学的课，看情况上一门，完善知识体系，至少是原理层次
-4. 工程开发技能 (纯粹面向工业界需求驱动)
+#### 2.4 工程开发技能 (纯粹面向工业界需求驱动)
   - 原则：100%面向工业界实践，所以首先想办法搜索工业界确实在用的技术，然后看原理写代码实践 
   - 多进程并发编程
   - cuda编程 (包含并行编程)
@@ -36,13 +36,13 @@ engineering development skills for computer vision and deep learning (readme是�
   - OCR 原理与实践
   - 图像处理的实践 (DL and non-DL)
   - 想办法找一个完整的，用到上述技术的 proj (找学长要实习？)，完成就OK了
-5. 编程实践
+#### 2.5 编程实践
   - 上述课程的实践
   - 有趣的课程设计，再append & TODO吧
-6. 意向公司与部门总结
+#### 2.6 意向公司与部门总结
   - 像2010做阿里云一样，像2015年进头条的推荐算法部门，寻找一个 promissing & 蓝海 的部门和mentor
   - 凡事预则立
-7. 针对4的定向面经总结
+#### 2.7 针对上一条的定向面经总结
   - leetcode
   - 面试的问答集
   - 了解公司-部门和ideal_mentor
